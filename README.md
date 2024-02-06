@@ -1,5 +1,6 @@
 # BookStore 
 - Book title
 - Book Genre
-- Author name
-- ifsd code
+- Name of the Author
+- ISBN Code
+- Cost of the Book
