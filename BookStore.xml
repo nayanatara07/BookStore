@@ -5,6 +5,8 @@
         <Author>J.K. Rowling</Author>
         <ISBN>9780747532743</ISBN>
         <Cost>12.99</Cost>
+        <Edition>1st</Edition>
+        <Publisher>Bloomsbury</Publisher>
     </Book>
     <Book>
         <Title>To Kill a Mockingbird</Title>
@@ -12,6 +14,8 @@
         <Author>Harper Lee</Author>
         <ISBN>9780061120084</ISBN>
         <Cost>9.99</Cost>
+        <Edition>50th Anniversary</Edition>
+        <Publisher>Harper Perennial Modern Classics</Publisher>
     </Book>
     <Book>
         <Title>The Great Gatsby</Title>
@@ -19,6 +23,8 @@
         <Author>F. Scott Fitzgerald</Author>
         <ISBN>9780743273565</ISBN>
         <Cost>8.50</Cost>
+        <Edition>Reprint</Edition>
+        <Publisher>Scribner</Publisher>
     </Book>
     <Book>
         <Title>Pride and Prejudice</Title>
@@ -26,6 +32,8 @@
         <Author>Jane Austen</Author>
         <ISBN>9780141439518</ISBN>
         <Cost>7.25</Cost>
+        <Edition>Reissue</Edition>
+        <Publisher>Penguin Classics</Publisher>
     </Book>
     <Book>
         <Title>1984</Title>
@@ -33,6 +41,8 @@
         <Author>George Orwell</Author>
         <ISBN>9780451524935</ISBN>
         <Cost>10.50</Cost>
+        <Edition>1st</Edition>
+        <Publisher>Signet Classic</Publisher>
     </Book>
     <Book>
         <Title>The Catcher in the Rye</Title>
@@ -40,6 +50,8 @@
         <Author>J.D. Salinger</Author>
         <ISBN>9780316769488</ISBN>
         <Cost>11.75</Cost>
+        <Edition>Reprint</Edition>
+        <Publisher>Little, Brown and Company</Publisher>
     </Book>
     <Book>
         <Title>The Hobbit</Title>
@@ -47,6 +59,8 @@
         <Author>J.R.R. Tolkien</Author>
         <ISBN>9780547928227</ISBN>
         <Cost>14.99</Cost>
+        <Edition>Reprint</Edition>
+        <Publisher>Houghton Mifflin Harcourt</Publisher>
     </Book>
     <Book>
         <Title>Frankenstein</Title>
@@ -54,6 +68,8 @@
         <Author>Mary Shelley</Author>
         <ISBN>9780486282114</ISBN>
         <Cost>9.00</Cost>
+        <Edition>Reissue</Edition>
+        <Publisher>Dover Publications</Publisher>
     </Book>
     <Book>
         <Title>Brave New World</Title>
@@ -61,6 +77,8 @@
         <Author>Aldous Huxley</Author>
         <ISBN>9780060850524</ISBN>
         <Cost>12.25</Cost>
+        <Edition>1st</Edition>
+        <Publisher>Harper Perennial Modern Classics</Publisher>
     </Book>
     <Book>
         <Title>The Lord of the Rings</Title>
@@ -68,5 +86,7 @@
         <Author>J.R.R. Tolkien</Author>
         <ISBN>9780618640157</ISBN>
         <Cost>24.99</Cost>
+        <Edition>Reprint</Edition>
+        <Publisher>Houghton Mifflin Harcourt</Publisher>
     </Book>
 </Bookstore>
