@@ -1,4 +1,4 @@
-# Welcome to My XML Bookstore!
+# Welcome to My Tara's Bookstore!
 
 Thank you for visiting our bookstore! Here, you'll find a diverse collection of literary treasures to explore and enjoy. Below is a list of the books currently available in our inventory:
 
