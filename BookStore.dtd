@@ -1,0 +1,17 @@
+<!DOCTYPE Bookstore [
+  <!ELEMENT Bookstore (Name, Roll_num, Name_of_store, Book*)>
+  <!ELEMENT Name (#PCDATA)>
+  <!ELEMENT Roll_num (#PCDATA)>
+  <!ELEMENT Name_of_store (#PCDATA)>
+  <!ELEMENT Book (Title, Genre, Author, ISBN, Cost, Edition, Publisher)>
+  <!ELEMENT Title (#PCDATA)>
+  <!ELEMENT Genre (#PCDATA)>
+  <!ELEMENT Author (#PCDATA)>
+  <!ELEMENT ISBN (#PCDATA)>
+  <!ELEMENT Cost (#PCDATA)>
+  <!ELEMENT Edition (#PCDATA)>
+  <!ELEMENT Publisher (#PCDATA)>
+]>
+
+
+
