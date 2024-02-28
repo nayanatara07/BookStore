@@ -2,9 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="BookStore.xsl"?>
 
 <Bookstore>
+<info>
 <Name>B.R.NayanaTara</Name>
 <Roll_num>HU21CSEN0101185</Roll_num>
 <Name_of_store>TARA's BOOKSTORE</Name_of_store>
+</info>
     <Book>
         <Title>Harry Potter and the Philosopher's Stone</Title>
         <Genre>Fantasy</Genre>

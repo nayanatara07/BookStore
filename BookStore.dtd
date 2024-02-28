@@ -1,4 +1,4 @@
-<!DOCTYPE Bookstore [
+
   <!ELEMENT Bookstore (Name, Roll_num, Name_of_store, Book*)>
   <!ELEMENT Name (#PCDATA)>
   <!ELEMENT Roll_num (#PCDATA)>
@@ -11,7 +11,7 @@
   <!ELEMENT Cost (#PCDATA)>
   <!ELEMENT Edition (#PCDATA)>
   <!ELEMENT Publisher (#PCDATA)>
-]>
+
 
 
 
