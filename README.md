@@ -1,6 +1,7 @@
 # Welcome to Tara's Bookstore!
 
-Thank you for visiting our bookstore! Here, you'll find a diverse collection of literary treasures to explore and enjoy. Below is a list of the books currently available in our inventory:
+Thank you for visiting our bookstore! Here, you'll find a diverse collection of literary treasures to explore and enjoy.
+Below is a list of the books currently available in our inventory:
 
 ## Harry Potter and the Philosopher's Stone
 - **Author:** J.K. Rowling
