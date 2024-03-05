@@ -1,4 +1,4 @@
-# Welcome to Tara's Bookstore!
+# Welcome to Tara's Bookstore Inventory!
 
 Thank you for visiting our bookstore! Here, you'll find a diverse collection of literary treasures to explore and enjoy.
 Below is a list of the books currently available in our inventory:
