@@ -36,6 +36,17 @@
             <th>Edition</th>
             <th>Publisher</th>
           </tr>
+          
+          <tr>
+            <td colspan="7">Info</td>
+          </tr>
+         
+          <xsl:for-each select="Bookstore/info/*">
+            <tr>
+              <td colspan="7"><xsl:value-of select="concat(name(), ': ', .)"/></td>
+            </tr>
+          </xsl:for-each>
+        
           <xsl:for-each select="Bookstore/Book">
             <tr>
               <td><xsl:value-of select="Title"/></td>
