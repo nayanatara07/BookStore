@@ -3,7 +3,7 @@
 Thank you for visiting our bookstore! Here, you'll find a diverse collection of literary treasures to explore and enjoy.
 Below is a list of the books currently available in our inventory:
 
-Files used for this repository are:
+Files contained in this repository are:
 BookkStore.dtd
 BookStore.xml
 BookStore.xsd
