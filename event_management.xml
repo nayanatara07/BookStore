@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="BookStore.xsl"?>
+
+// Lab internal
+<event_details>
+<info>
+<Name>B.R.NayanaTara</Name>
+<Roll_num>HU21CSEN0101185</Roll_num>
+<Name_of_store>TARA's BOOKSTORE</Name_of_store>
+</info>
+    <event>
+        <ename>Singing Competition</ename>
+        <edate>April 4th 2024</edate>
+        <evenue>Shivaji Auditorium</evenue>
+        <eorganizer>Student Organization</eorganizer>
+        <eattendee>Gitam University Students</eattendee>
+    </event>
+
+    <event>
+        <ename>Dancing Competition</ename>
+        <edate>April 6th 2024</edate>
+        <evenue>Kinera Hall</evenue>
+        <eorganizer>Dance Club</eorganizer>
+        <eattendee>All Students</eattendee>
+    </event>
+
+    <event>
+        <ename>Singing Competition</ename>
+        <edate>April 8th 2024</edate>
+        <evenue>Birla Planetarium</evenue>
+        <eorganizer>Lions Club</eorganizer>
+        <eattendee>Children age (6-12)</eattendee>
+    </event>
+
+    <event>
+        <ename>Debate Competition</ename>
+        <edate>April 10th 2024</edate>
+        <evenue>t-hub Committee</evenue>
+        <eorganizer>t-hub Hitechcity</eorganizer>
+        <eattendee>Everyone</eattendee>
+    </event>
+
+    <event>
+        <ename>Badminton Smash Fest</ename>
+        <edate>April 12th 2024</edate>
+        <evenue>Frontline Committee</evenue>
+        <eorganizer>Club house</eorganizer>
+        <eattendee>All Residents of Frontline</eattendee>
+    </event>
+    
+</event_details>
+
+

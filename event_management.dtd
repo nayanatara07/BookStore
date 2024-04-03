@@ -1,0 +1,8 @@
+
+//Lab internal
+<!ELEMENT Event_Details (ename, edate, evenue, eorganizer, eattendee, Event*)>
+  <!ELEMENT ename (#PCDATA)>
+  <!ELEMENT edate (#PCDATA)>
+  <!ELEMENT evenue (#PCDATA)>
+  <!ELEMENT eorganizer (Title, Genre, Author, ISBN, Cost, Edition, Publisher)>
+  <!ELEMENT eattendee (#PCDATA)>
