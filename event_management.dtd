@@ -1,5 +1,5 @@
 
-//Lab internal
+// WAD Lab internal
 <!ELEMENT Event_Details (ename, edate, evenue, eorganizer, eattendee, Event*)>
   <!ELEMENT ename (#PCDATA)>
   <!ELEMENT edate (#PCDATA)>
