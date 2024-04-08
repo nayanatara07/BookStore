@@ -89,7 +89,8 @@ Below is a list of the books currently available in our inventory:
 - **Edition:** Reprint
 - **Publisher:** Houghton Mifflin Harcourt
 
-# We hope you find something captivating among our selection. Happy Reading!
+# We hope you find something captivating among our selection. 
+Happy Reading!
 
 
 
